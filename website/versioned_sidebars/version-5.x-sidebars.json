@@ -2,7 +2,7 @@
   "version-5.x/docs": [
     {
       "type": "category",
-      "label": "Overview",
+      "label": "Aperçu",
       "items": [
         {
           "type": "doc",
@@ -12,7 +12,7 @@
     },
     {
       "type": "category",
-      "label": "Examples",
+      "label": "Exemples",
       "items": [
         {
           "type": "doc",
@@ -22,11 +22,11 @@
     },
     {
       "type": "category",
-      "label": "Tutorials",
+      "label": "Tutoriels",
       "items": [
         {
           "type": "link",
-          "label": "Official Courses",
+          "label": "Cours Officels",
           "href": "https://single-spa-workshop.com"
         },
         {
@@ -41,7 +41,7 @@
     },
     {
       "type": "category",
-      "label": "CLI",
+      "label": "Ligne De Commande",
       "items": [
         {
           "type": "doc",
@@ -103,7 +103,7 @@
     },
     {
       "type": "category",
-      "label": "Testing",
+      "label": "Tests",
       "items": [
         {
           "type": "doc",
@@ -117,7 +117,7 @@
     },
     {
       "type": "category",
-      "label": "Layout Engine",
+      "label": "Moteur de Mise En Page",
       "items": [
         {
           "type": "doc",
@@ -135,7 +135,7 @@
     },
     {
       "type": "category",
-      "label": "The Recommended Setup",
+      "label": "La Configuration Recommendée",
       "items": [
         {
           "type": "doc",
@@ -159,7 +159,7 @@
     },
     {
       "type": "category",
-      "label": "Ecosystem",
+      "label": "Ecosystème",
       "items": [
         {
           "type": "doc",
@@ -241,7 +241,7 @@
     },
     {
       "type": "category",
-      "label": "Server Side Rendering (New)",
+      "label": "Rendu côté serveur (Nouveau)",
       "items": [
         {
           "type": "doc",
@@ -251,7 +251,7 @@
     },
     {
       "type": "category",
-      "label": "Dev Tools",
+      "label": "Outils de développement",
       "items": [
         {
           "type": "doc",
@@ -261,7 +261,7 @@
     },
     {
       "type": "category",
-      "label": "Contributing",
+      "label": "Contributions",
       "items": [
         {
           "type": "doc",

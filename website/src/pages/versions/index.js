@@ -17,12 +17,12 @@ function Version() {
   return (
     <Layout
       permalink="/versions"
-      description="single-spa Versions page listing all documented site versions">
+      description="Page des versions de single-spa répertoriant toutes les versions documentées du site">
       <div className="container margin-vert--xl">
-        <h1>single-spa documentation versions</h1>
+        <h1>Documentation des versions de single-spa</h1>
         <div className="margin-bottom--lg">
-          <h3 id="latest">Latest version (Stable)</h3>
-          <p>Here you can find the latest documentation.</p>
+          <h3 id="latest">Dernière version (Stable)</h3>
+          <p>Vous trouverez ici la dernière documentation.</p>
           <table>
             <tbody>
               <tr>
@@ -34,7 +34,7 @@ function Version() {
                 </td>
                 <td>
                   <a href={`${repoUrl}/releases`}>
-                    Release Notes
+                    Notes de déploiement
                   </a>
                 </td>
               </tr>
@@ -43,9 +43,9 @@ function Version() {
         </div>
         {pastVersions.length > 0 && (
           <div className="margin-bottom--lg">
-            <h3 id="archive">Past Versions</h3>
+            <h3 id="archive">Anciennes Versions</h3>
             <p>
-              Here you can find documentation for previous versions of single-spa.
+              Vous trouverez ici la documentation des versions précédentes de single-spa.
             </p>
             <table>
               <tbody>
@@ -59,7 +59,7 @@ function Version() {
                     </td>
                     <td>
                       <a href={`${repoUrl}/releases`}>
-                        Release Notes
+                        Notes de déploiement
                       </a>
                     </td>
                   </tr>

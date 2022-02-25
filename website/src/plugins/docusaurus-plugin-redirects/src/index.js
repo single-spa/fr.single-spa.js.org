@@ -28,12 +28,12 @@ module.exports = function(context, opts) {
         const filePath = path.dirname(routesPath);
         const htmlContent = `
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="fr-FR">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="refresh" content="0; url=${newLink}">
     <link rel="canonical" href="${newLink}" />
-    <title>Redirecting to ${newLink}</title>
+    <title>Redirection vers ${newLink}</title>
   </head>
   <script>
     debugger;

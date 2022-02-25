@@ -18,19 +18,19 @@ export const HomeSplash = () => {
           <Link
             className="button"
             to={useBaseUrl('docs/getting-started-overview')}>
-            Get Started
+            Introduction
           </Link>
 
           <Link
             className="button"
             to="https://single-spa-workshop.com">
-            Official Courses
+            Cours Officels
           </Link>
 
           <Link
             className="button"
             to="https://join.slack.com/t/single-spa/shared_invite/zt-yxfqpl2u-PNx3uZtS3pgAXbOBWsdwOA">
-            Join Slack Chat
+            Rejoignez-nous sur Slack
           </Link>
         </div>
       </div>

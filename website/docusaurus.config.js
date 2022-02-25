@@ -6,7 +6,7 @@ const versions = require('./versions.json');
 
 module.exports = {
   title: 'single-spa',
-  tagline: 'A javascript router for front-end microservices',
+  tagline: 'Un router javascript pour les microservices côté client',
   url: 'https://fr.single-spa.js.org',
   baseUrl: '/',
   projectName: 'single-spa',
@@ -38,52 +38,52 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: "Courses",
+          title: "Cours",
           items: [
             {
-              label: "Single-Spa Workshop",
+              label: "Ateliers Single-Spa",
               to: "https://single-spa-workshop.com"
             },
             {
-              label: "Microfrontend Fundamentals",
+              label: "Fonndamentaux des Microfrontends",
               to: "https://single-spa-workshop.com"
             },
           ]
         },
         {
-          title: 'Docs',
+          title: 'Documentation',
           items: [
             {
               label: 'FAQ',
               to: 'docs/faq/',
             },
             {
-              label: 'Getting Started',
+              label: 'Introduction',
               to: 'docs/getting-started-overview/',
             },
             {
-              label: 'API Reference',
+              label: 'API',
               to: 'docs/api/',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Communauté',
           items: [
             {
               label: 'Sponsors',
               to: 'sponsors/',
             },
             {
-              label: 'User Showcase',
+              label: 'Utilisateurs',
               to: 'users/',
             },
             {
-              label: 'Contributors',
+              label: 'Contributeurs',
               to: 'contributors/',
             },
             {
-              label: 'Chat in Slack',
+              label: 'Rejoingnez-nous sur Slack',
               href:
                 'https://join.slack.com/t/single-spa/shared_invite/zt-yxfqpl2u-PNx3uZtS3pgAXbOBWsdwOA',
             },
@@ -94,7 +94,7 @@ module.exports = {
           ],
         },
         {
-          title: 'More',
+          title: 'Plus',
           items: [
             {
               label: 'GitHub',
@@ -116,7 +116,7 @@ module.exports = {
     navbar: {
       title: 'single-spa',
       logo: {
-        alt: 'single-spa Logo',
+        alt: 'Logo de single-spa',
         src: 'img/single-spa-mark-magenta.svg',
       },
       items: [
@@ -131,13 +131,13 @@ module.exports = {
           },
         },
         { to: 'docs/faq/', label: 'FAQ' },
-        { to: 'docs/', label: 'Docs' },
-        { to: 'https://single-spa-workshop.com', label: 'Courses' },
-        { to: 'help/', label: 'Help' },
+        { to: 'docs/', label: 'Documentation' },
+        { to: 'https://single-spa-workshop.com', label: 'Cours' },
+        { to: 'help/', label: 'Aide' },
         { to: 'blog/', label: 'Blog' },
-        { href: 'https://opencollective.com/single-spa', label: 'Donate' },
+        { href: 'https://opencollective.com/single-spa', label: 'Faire Un Don' },
         { href: 'https://github.com/single-spa/single-spa', label: 'GitHub' },
-        { to: 'languages', label: '简Жहि Languages' },
+        { to: 'languages', label: 'Langues' },
       ],
     },
     googleAnalytics: {
