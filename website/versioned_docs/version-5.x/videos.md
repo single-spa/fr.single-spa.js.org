@@ -8,10 +8,10 @@ Une variété de tutoriels vidéo sont fournis  par l'équipe de single-spa et d
 
 ## De la part l'équipe
 
-[Youtube Playlist](https://www.youtube.com/playlist?list=PLLUD8RtHvsAOhtHnyGx57EYXoaNsxGrTU) / [Bilibili](https://space.bilibili.com/495254378)
+[Playlist Youtube](https://www.youtube.com/playlist?list=PLLUD8RtHvsAOhtHnyGx57EYXoaNsxGrTU) / [Bilibili](https://space.bilibili.com/495254378)
 
 ## De la part de la Communauté
 
 N'hésitez pas à ajouter vos tutoriels vidéos à cette liste !
 
-- [Module Federation and single-spa](https://www.youtube.com/watch?v=wxnwPLLIJCY)
+- [Le Module Federation et single-spa](https://www.youtube.com/watch?v=wxnwPLLIJCY)
