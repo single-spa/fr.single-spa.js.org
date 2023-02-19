@@ -31,21 +31,21 @@ export const Sponsors = ({ showAll }) => {
         })}>
           Sponsors
       </h2>
-      <p>This project is sponsored by these organizations and people</p>
+      <p>Ce projet est sponsorisé est sponsorisé par ces organisations et personnes</p>
       <div className={styles.sponsorLogos}>{sponsorElements}</div>
       {showAll ? (
         <>
-          <p>Are you sponsoring this project?</p>
+          <p>Sponsorisez vous ce projet?</p>
           <a
             href={`${siteConfig.customFields.repoUrl}/edit/master/website/src/data/sponsors.js`}
             className="button">
-            Add your company
+            Ajoutez votre entreprise
           </a>
         </>
       ) : (
         <div className="more-users">
           <a className="button" target="_blank" rel="noopener" href="https://opencollective.com/single-spa">
-            Sponsor single-spa
+            Sponsorisez single-spa
           </a>
         </div>
       )}

@@ -4,8 +4,8 @@ title: single-spa-playground
 sidebar_label: Playground
 ---
 
-[Playground website](http://single-spa-playground.org)
+[Site](http://single-spa-playground.org)
 
-[Github project](https://github.com/single-spa/single-spa-playground)
+[Projet Github](https://github.com/single-spa/single-spa-playground)
 
-The single-spa playground is an interactive tutorial that lets you test your code live in the browser to verify it can work with single-spa.
+ Single-spa playground est un tutoriel interactif qui vous permet de tester votre code en temps réél sur votre navigateur. En cela, vous vérifiez facilement s'il peut fonctionner avec single-spa.

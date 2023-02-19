@@ -31,21 +31,21 @@ export const Showcase = ({ showAll }) => {
         })}>
         Who&apos;s Using This?
       </h2>
-      <p>This project is used by all these organizations</p>
+      <p>Ce projet est utilisé par ces organisations</p>
       <div className={styles.showcaseLogos}>{showcase}</div>
       {showAll ? (
         <>
-          <p>Are you using this project?</p>
+          <p>Utilisez-vous ce projet?</p>
           <a
             href={`${siteConfig.customFields.repoUrl}/edit/master/website/src/data/users.js`}
             className="button">
-            Add your company
+            Ajoutez votre entreprise
           </a>
         </>
       ) : (
         <div className="more-users">
           <a className="button" href={useBaseUrl('users')}>
-            More {siteConfig.title} Users
+            Plus d'utilisateurs de {siteConfig.title}
           </a>
         </div>
       )}
